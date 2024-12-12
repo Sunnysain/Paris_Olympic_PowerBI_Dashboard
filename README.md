@@ -22,7 +22,7 @@ This project analyzes the **Paris 2024 Summer Olympics** dataset, offering in-de
 
 1. **Clone this repository**:
     ```bash
-    (https://github.com/Sunnysain/Paris_Olympic_PowerBI_Dashboard.git)
+    https://github.com/Sunnysain/Paris_Olympic_PowerBI_Dashboard.git
     ```
 
 2. **Install the required Python libraries**:
